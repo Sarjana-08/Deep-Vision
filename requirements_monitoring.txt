@@ -1,0 +1,27 @@
+# Complete Crowd Monitoring System Requirements
+# TensorFlow & Deep Learning
+tensorflow>=2.16.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Numerical Computing
+numpy>=2.0
+scipy>=1.11.0
+
+# Web Framework
+flask==2.3.0
+flask-cors==4.0.0
+werkzeug==2.3.0
+
+# Image Processing
+pillow==10.0.0
+
+# Database (SQLite built-in)
+# sqlite3 (included in Python)
+
+# Optional: Gradio for alternative UI
+gradio==4.15.0
+
+# Development/Utilities
+python-dotenv==1.0.0
